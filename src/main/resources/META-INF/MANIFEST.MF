@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: hotelapp.HotelSearch
+Multi-Release: true
